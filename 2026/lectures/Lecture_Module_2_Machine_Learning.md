@@ -975,4 +975,3 @@ flowchart LR
 5. UCI Machine Learning Repository — https://archive.ics.uci.edu/
 6. GitHub Docs: математические выражения — https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
-**Техническое решение для GitHub:** все блочные формулы приведены к однострочному синтаксису `$$ ... $$`; удалены нестандартные операторные и текстовые макросы внутри формул, а также многострочные окружения.
