@@ -853,4 +853,3 @@ flowchart TD
 4. GitHub Docs: математические выражения в Markdown — https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 5. Scikit-learn User Guide — https://scikit-learn.org/stable/user_guide.html
 
-**Примечание по формулам:** в файле используются однострочные блоки `$$ ... $$` без нестандартных макросов. Такой синтаксис соответствует официальной документации GitHub MathJax и одновременно остается совместимым с Marp/KaTeX для базовых выражений.
