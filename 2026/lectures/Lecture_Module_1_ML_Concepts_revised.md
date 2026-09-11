@@ -244,14 +244,6 @@ flowchart LR
 
 ---
 
-## Сопоставление с ведущими курсами
-
-Структура темы соответствует фундаментальной логике:
-
-- **Stanford CS229** — supervised/unsupervised learning, bias–variance, practical advice;
-- **MIT 6.390** — problem formulation, supervised/unsupervised learning, evaluation criteria;
-- **UC Berkeley CS189** — regression, classification, trees, neural networks, ensembles, clustering и dimensionality reduction.
-
 Для профиля «Умные системы и интернет вещей в образовании» этот фундамент переносится на сенсорные данные и инженерно-педагогические сценарии.
 
 ---
